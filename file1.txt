@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 
 This is a new line added to file1
-=======
-# Modify and save the file
-git add file1.txt git commit -m "Updated file1.txt" git push origin new-feature-branch
->>>>>>> d7bcb74 (Updated file1.txt)
